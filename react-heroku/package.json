@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "webpack serve",
     "start": "node server.js",
-    "build": "webpack --mode production"
+    "build": "NODE_OPTIONS=--openssl-legacy-provider webpack --mode production"
   },
   "keywords": [],
   "author": "",
