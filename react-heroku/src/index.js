@@ -4,7 +4,7 @@ class App extends React.Component{
     render(){
         return(
             <div>
-                Hello World Triggers!
+                Hello World API!
             </div>
         )
     }
