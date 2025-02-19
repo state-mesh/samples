@@ -1,54 +1,31 @@
-# reactjs-examples
-Some examples of ReactJS apps and studies. Use the readmes to more info.
 
-## BSC Scan Clone
-BSC Scan website clone using BSC Scan APIs.
 
-## nextjs-dotenv
-Next.js environment variables tutorial.
+#### Deploy button with logo on PROD (deploys react-heroku sample)
 
-## nextjs-tutorial
-Next.js beginner tutorial.
+[![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_green.svg)](
+https://console.cloud.statemesh.net/deploy?appname=react-sample&subpath=react-heroku)
 
-## nextjs-tutorial-2
-Second Next.js tutorial.
 
-## nodemail
-A simple mailsender built with ReactJS, Node.js and Nodemailer.
+#### Deploy button with icon on PROD (deploys react-heroku sample)
 
-## react-axios
-Axios examples with React (functions, requests, auth and interceptors)
+[![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_icon.svg)](
+https://console.cloud.statemesh.net/deploy?appname=react-sample&subpath=react-heroku)
 
-## react-captcha
-Google reCaptcha V2 example in React.
 
-## react-heroku
-Deploy example setup for Heroku.
+#### Deploy button with icon on PROD (deploys tradingview-ai sample)
 
-## react-intro
-Beginners tutorials.
+[![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_icon.svg)](
+https://console.cloud.statemesh.net/deploy?appname=tradingview-ai&subpath=tradingview-ai)
 
-## react-list-search
-React listing with search box.
 
-## react-login
-Soon. Em breve.
+#### Deploy button with icon on PROD (deploys entire project)
 
-## TradingView Clone
-TradingView candle chart clone using Binance API & Stream.
+[![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_icon.svg)](
+https://console.cloud.statemesh.net/deploy?appname=samples)
 
-## TradingView Clone AI
-An evolution of the previous project drawing support and resistance lines automatically (AI-like) and Next.js.
 
-## webapi-exemplo
-Exemplo de web api usada na série de tutoriais de React acima.
+#### Deploy button with logo on DEV (deploys react-heroku sample on https://localhost:9000)
 
-## Mais
+[![Deploy](https://console.cloud.statemesh.net/assets/layout/images/deployStateMesh_green.svg)](
+https://localhost:9000/deploy?appname=react-sample&subpath=react-heroku)
 
-Me siga nas redes sociais https://about.me/luiztools
-
-Receba novidades no Telegram https://t.me/luiznews
-
-Conheça meus cursos em https://www.luiztools.com.br/meus-cursos
-
-Conheça meus livros em https://www.luiztools.com.br/meus-livros
